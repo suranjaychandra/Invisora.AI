@@ -1,7 +1,7 @@
 streamlit>=1.33.0
 pandas>=2.0.0
 plotly>=5.18.0
-openai>=1.23.0
+openai>=1.13.3
 pdfkit>=1.0.0
 python-dotenv>=1.0.1
 appwrite>=11.0.0
