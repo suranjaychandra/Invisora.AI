@@ -118,7 +118,8 @@ Academic paper analysis
 
 PDF analytics for non-technical users
 outputs:
-[![Invisora Demo](assets/one.png)](assets/one.png)
+[![Invisora Demo](assets/one.png)](assets/<img width="1411" height="675" alt="one" src="https://github.com/user-attachments/assets/b50e7cc1-cb5b-4faf-ba5c-272b248b7b6c" />
+)
 [![Invisora Demo](assets/two.png)](assets/two.png)
 [![Invisora Demo](assets/three.png)](assets/three.png)
 [![Invisora Demo](assets/four.png)](assets/four.png)
