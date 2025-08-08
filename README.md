@@ -116,20 +116,24 @@ Automated data storytelling
 
 Academic paper analysis
 
+```
 PDF analytics for non-technical users
 outputs:
 [![Invisora Demo](assets/one.png)](assets/<img width="1411" height="675" alt="one" src="https://github.com/user-attachments/assets/b50e7cc1-cb5b-4faf-ba5c-272b248b7b6c" />
 )
-[![Invisora Demo](assets/two.png)](assets/two.png)
-[![Invisora Demo](assets/three.png)](assets/three.png)
-[![Invisora Demo](assets/four.png)](assets/four.png)
-[![Invisora Demo](assets/five.png)](assets/five.png)
+[![Invisora Demo](assets/two.png)](assets/<img width="1408" height="682" alt="two" src="https://github.com/user-attachments/assets/37983f3e-b4f4-4542-bb21-dd8244ceb700" />
+)
+[![Invisora Demo](assets/three.png)](assets/<img width="1346" height="632" alt="three" src="https://github.com/user-attachments/assets/517691f0-e5c8-446b-b42a-f196a5a98afc" />
+)
+[![Invisora Demo](assets/four.png)](assets/<img width="1394" height="711" alt="four" src="https://github.com/user-attachments/assets/b8a6f27d-01de-4bb4-831c-f04dca5b31ad" />
+)
+[![Invisora Demo](assets/five.png)](assets/<img width="1404" height="800" alt="five" src="https://github.com/user-attachments/assets/a4e78ec8-e633-44c7-8149-2929e13764e3" />
+)
 [![Invisora Demo](assets/chart_0.png)](assets/chart_0.png)
 [![Invisora Demo](assets/chart_1.png)](assets/chart_1.png)
 [![Invisora Demo](assets/chart_2.png)](assets/chart_2.png)
 [![Invisora Demo](assets/chart_3.png)](assets/chart_3.png)
 [![Invisora Demo](assets/chart_4.png)](assets/chart_4.png)
-
 
 
  Author
