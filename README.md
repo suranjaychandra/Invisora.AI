@@ -117,6 +117,17 @@ Automated data storytelling
 Academic paper analysis
 
 PDF analytics for non-technical users
+outputs:
+you can see here : ![Invisora Demo](assets/one.png)
+![Invisora Demo](assets/two.png)
+![Invisora Demo](assets/three.png)
+![Invisora Demo](assets/four.png)
+![Invisora Demo](assets/five.png)
+![Invisora Demo](assets/chart_0.png)
+![Invisora Demo](assets/chart_1.png)
+![Invisora Demo](assets/chart_2.png)
+![Invisora Demo](assets/chart_3.png)
+![Invisora Demo](assets/chart_4.png)
 
 
  Author
