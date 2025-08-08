@@ -129,11 +129,9 @@ outputs:
 )
 [![Invisora Demo](assets/five.png)](assets/<img width="1404" height="800" alt="five" src="https://github.com/user-attachments/assets/a4e78ec8-e633-44c7-8149-2929e13764e3" />
 )
-[![Invisora Demo](assets/chart_0.png)](assets/chart_0.png)
-[![Invisora Demo](assets/chart_1.png)](assets/chart_1.png)
-[![Invisora Demo](assets/chart_2.png)](assets/chart_2.png)
-[![Invisora Demo](assets/chart_3.png)](assets/chart_3.png)
-[![Invisora Demo](assets/chart_4.png)](assets/chart_4.png)
+[![Invisora Demo](assets/six.png)](assets/<img width="1416" height="770" alt="six" src="https://github.com/user-attachments/assets/102766ec-83ab-4237-afd1-b474e63a62d0" />
+)
+
 
 
  Author
